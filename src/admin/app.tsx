@@ -2,8 +2,9 @@ import type { StrapiApp } from '@strapi/strapi/admin';
 
 export default {
   config: {
+    appName: 'Xen CMS',
     head: {
-      title: 'Xen CRM Admin',
+      title: 'Xen CMS Admin',
     },
     locales: ['es'],
     translations: {
