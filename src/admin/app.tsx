@@ -11,7 +11,7 @@ export default {
         "app.components.LeftMenu.navbrand.title": "Xen CMS",
         "app.components.LeftMenu.navbrand.workplace": "Panel de Control",
         "Auth.form.welcome.title": "Bienvenido a Xen CMS",
-        "Auth.form.welcome.subtitle": "Inicia sesión en tu cuenta de env('COMPANY_DISPLAY_NAME')"
+        "Auth.form.welcome.subtitle": "Inicia sesión en tu cuenta de Xen Digital"
       },
     },
     theme: {
